@@ -1,0 +1,2 @@
+module gobi_tns {
+}
